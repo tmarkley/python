@@ -1,7 +1,9 @@
 python
 ======
+© Tommy Markley, Andrew Crocker, May 2011
 
-My final project (clip_em.py) for our intro CS course and all of the other python code that I've written.
+Final project (clip_em.py) for the Intro CS course at St. Olaf.
 
-All of these programs were written for my Intro to Computer Science course at St. Olaf College. The final project has
-a horrendous structure, but it's fun to look at how far I've come since then! :)
+clip_em.py -- python source code containing all of the code for the project
+dieview.py -- file used for the dice in the game
+graphics.py -- graphics library for the GUI
